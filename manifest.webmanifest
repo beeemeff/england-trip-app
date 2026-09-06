@@ -1,0 +1,16 @@
+{
+  "name": "Inglaterra 2026",
+  "short_name": "Inglaterra",
+  "description": "Roteiro, presentes e checklist da viagem à Inglaterra, 11 a 19 de setembro de 2026.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0e13",
+  "theme_color": "#0b0e13",
+  "icons": [
+    { "src": "./icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
